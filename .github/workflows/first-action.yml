@@ -11,4 +11,4 @@ jobs:
       - name: Run multi line
         run: |
             echo "I am First Line"
-            echo: "I am Second Line"
+            echo "I am Second Line"
